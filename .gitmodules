@@ -1,0 +1,3 @@
+[submodule "jstinker"]
+	path = jstinker
+	url = https://github.com/johncipponeri/jstinker
